@@ -1,18 +1,18 @@
-h1{
-  
-  font-family:century-gothic
-  color:dark-blue;
+ h1{
+
+  font-family: century;
+  color:blue;
 }
 
-h2{
- font-family:century-gothic
- color:dark-blue;
+ h2{
+  font-family: century;
+  color:blue;
 }
 
 p{
- font-family:century-gothic
-color: light-blue;
+ font-family: century;
 }
-body{
-  background-color: #e6f9ff;
+
+body {
+    background-color: #cce6ff;
 }
